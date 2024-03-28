@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img pro="1710939923size" src="https://steamcdn-a.akamaihd.net/steam/apps/1260320/extras/001.gif?t=1592389863" alt="">
-
 
 - 📖 I’m currently educated at University of Wisconsin - Madison, majoring in Computer Science, Data Science, and Economics.
 - 🌍 My personal Website: <a href="https://pages.cs.wisc.edu/~haoting/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
