@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hello everyone, I am Haoting. Welcome to my Digital World! 🕹️ 
 
 <!--
 **haotingtan/Haotingtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📖 I’m currently educated at University of Wisconsin - Madison, majoring in Computer Science, Data Science, and Economics.
+
+  
+![image]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white])
