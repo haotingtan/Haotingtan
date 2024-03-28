@@ -1,8 +1,6 @@
 # 👋 Hello everyone, I am Haoting. Welcome to my Digital World! 🕹️ 
 
-
-![Party Animal Fun Images](images/download.gif)
-
+![GIF](https://media.giphy.com/media/xkrklSz6maW7LCWCB5/giphy.gif)
 
 - 📖 I’m currently educated at University of Wisconsin - Madison, majoring in Computer Science, Data Science, and Economics.
 - 😄 Pronouns: he/him
