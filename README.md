@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![images](images/download.gif)
 
 - 📖 I’m currently educated at University of Wisconsin - Madison, majoring in Computer Science, Data Science, and Economics.
 - 🌍 My personal Website: <a href="https://pages.cs.wisc.edu/~haoting/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
