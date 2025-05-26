@@ -1,8 +1,8 @@
-# 👋 Hello everyone, I am Haoting. Welcome to my Digital World! 🕹️ 
+# 👋 Hello everyone, I am Hillden(Haoting). Welcome to my Digital World! 🕹️ 
 
 ![GIF](https://media.giphy.com/media/xkrklSz6maW7LCWCB5/giphy.gif)
 
-- 📖 I’m currently educated at University of Wisconsin - Madison, majoring in Computer Science, Data Science, and Economics.
+- 📖 Recent graduate at University of Wisconsin - Madison, majoring in Computer Science, Data Science, and Economics.
 - 😄 Pronouns: he/him
 - 🌍 My personal Website: <a href="https://pages.cs.wisc.edu/~haoting/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 - 📫 How to reach me: <a href="mailto:hilldentan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
