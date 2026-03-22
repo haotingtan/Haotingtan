@@ -2,9 +2,9 @@
 
 ![GIF](https://media.giphy.com/media/xkrklSz6maW7LCWCB5/giphy.gif)
 
-- 📖 Recent graduate at University of Wisconsin - Madison, majoring in Computer Science, Data Science, and Economics.
+- 📖 Recent graduate at University of Wisconsin - Madison, B.S. in Computer Science, Data Science, and Economics.
 - 😄 Pronouns: he/him
-- 🌍 My personal Website: <a href="https://pages.cs.wisc.edu/~haoting/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+- 🌍 My personal Website: <a href="https://hilldentan.com" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 - 📫 How to reach me: <a href="mailto:hilldentan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/haoting-tan-345753252/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/haotingtan/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
